@@ -1,0 +1,16 @@
+styled components - it is a library you can install using npm install styled-components
+import Styled form 'styled-components'
+const styledButton = Styled.button`
+border
+color
+border-radius
+padding
+margin
+color
+
+effect Hooks : Effect lets a component connect to and synchronize with external systems
+
+useReducer Hook: If there is a lot of updates happening to your single state variable it's always better to 
+handle that state management logic inside a separate function
+
+useContext Hook: Receive information from distant parents without passing it as a props

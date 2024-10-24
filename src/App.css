@@ -1,0 +1,32 @@
+
+.primary-btn{
+    width: 100px;
+    background-color: red;
+    color: white;
+}
+
+.normal-btn{
+    width: 100px;
+    background-color: blue;
+    color: white;
+}
+.bg-body-tertiary{
+    background-color: black
+    color(srgb red green blue);
+}
+.container-loginPage{
+    height: 93vh;
+    background-color: #f54236;
+}
+
+.container-inside-loginPage{
+    height: 100%;
+}
+.container-inside-row-loginPage{
+    height: 100%;
+}
+.img-class{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
